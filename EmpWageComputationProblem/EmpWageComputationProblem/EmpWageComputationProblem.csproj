@@ -48,6 +48,7 @@
     <Compile Include="UC1_EmployeeAttendence.cs" />
     <Compile Include="UC2_EmployeeDailyWage.cs" />
     <Compile Include="UC3_PartTimeEmployeeWage.cs" />
+    <Compile Include="UC4_EmployeeWageSwitchCase.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
