@@ -11,8 +11,9 @@ namespace EmpWageComputationProblem
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome to the Employee Wage Computation Problem");
-            UC1_EmployeeAttendence.EmployeeCheck();
-            UC2_EmployeeDailyWage.EmployeeWage();
+            //UC1_EmployeeAttendence.EmployeeCheck();
+            //UC2_EmployeeDailyWage.EmployeeWage();
+            UC3_PartTimeEmployeeWage.PartTimeEmployee();
         }
     }
 }
