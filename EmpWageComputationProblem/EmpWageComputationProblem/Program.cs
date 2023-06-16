@@ -12,6 +12,7 @@ namespace EmpWageComputationProblem
         {
             Console.WriteLine("Welcome to the Employee Wage Computation Problem");
             UC1_EmployeeAttendence.EmployeeCheck();
+            UC2_EmployeeDailyWage.EmployeeWage();
         }
     }
 }
