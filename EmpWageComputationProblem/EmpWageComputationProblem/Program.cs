@@ -15,7 +15,8 @@ namespace EmpWageComputationProblem
             //UC2_EmployeeDailyWage.EmployeeWage();
             //UC3_PartTimeEmployeeWage.PartTimeEmployee();
             //UC4_EmployeeWageSwitchCase.EmployeeWageSwitchCase();
-            UC5_EmployeeWageMonthly.WagesforMonth();
+            // UC5_EmployeeWageMonthly.WagesforMonth();
+            UC6_EmployeeWageTillCOndition.EmployeeWageCondition();
         }
     }
 }
